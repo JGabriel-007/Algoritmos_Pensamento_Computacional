@@ -1,1 +1,1 @@
-# Calculadora-Cientifica
+# Algoritmos_Pensamento_Computacional
